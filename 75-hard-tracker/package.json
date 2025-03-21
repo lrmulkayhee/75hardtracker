@@ -1,0 +1,38 @@
+{
+  "name": "75-hard-tracker",
+  "version": "1.0.0",
+  "description": "A tracker application for the 75 Hard challenge, displaying rules as a to-do list.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-native start",
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.2",
+    "react-navigation": "^4.4.4",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "^2.2.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "jest": "^27.0.6",
+    "@types/react": "^17.0.2",
+    "@types/react-native": "^0.64.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrmulkayhee/75-hard-tracker.git"
+  },
+  "keywords": [
+    "75hard",
+    "tracker",
+    "to-do",
+    "react-native"
+  ],
+  "author": "Lauren Mulcahy",
+  "license": "MIT"
+}
