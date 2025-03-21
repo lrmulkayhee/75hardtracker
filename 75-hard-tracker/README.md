@@ -7,6 +7,8 @@ The 75 Hard Tracker is a mobile application designed to help users track their p
 - Display the rules of the 75 Hard challenge as a to-do list.
 - Check off tasks as they are completed.
 - Track daily progress and completion status.
+- Select a start date and track progress from that date, allowing for challenges longer than 75 days.
+- Capture and store progress pictures using the device's camera.
 
 ## Project Structure
 ```
